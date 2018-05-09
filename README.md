@@ -15,7 +15,9 @@
 
 作者：谢宇  电子工业出版社
 
+## Java多线程变成实战指南（核心篇）（Java多线程编程实战系列）
 
+作者：黄文海  电子工业出版社
 
 ## 大型网站系统与Java中间件实践![star 4][star4 Icon]
 
@@ -47,6 +49,9 @@
 
 ## Redis设计与实现（数据库技术丛书）
 
+## 第一本Docker书（异步图书）
+
+作者：James  Turnbull
 
 
 [star0 Icon]: https://jaywcjlove.github.io/sb/star/red0.svg "0星推荐软件"
